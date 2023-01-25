@@ -1,0 +1,20 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
+
+
+
+.Row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  height: 64px;
+}
+
+
